@@ -4,7 +4,7 @@
  * @file adc_temperature.c
  *
  * @brief Driver implementation for ADC.
- *
+ * rev 1 - shabaz - August 2022
  *
  ****************************************************************************************
  */
